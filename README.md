@@ -2,7 +2,7 @@
 
 
 
-##About Me
+## About Me
 
 Hello, :wave: I'm Juan Alberto Hernandez Full-Stack Software Developer student at MITT.
 
@@ -24,8 +24,8 @@ I believe being part of the IT world it´s the most realistic and right decision
 ![](https://img.shields.io/static/v1?style=plastic&message=.NET&color=informational&logo=.net&logoColor=informational&label=FRAMEWORK) 
 ![](https://img.shields.io/static/v1?style=plastic&message=EntityFramework&color=informational&logo=.NET&logoColor=informational&label=FRAMEWORK)
 ![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?style=plastic&logo=microsoft%20sql%20server&logoColor=informational&color=informational)
-![](https://img.shields.io/badge/code-python-informational?style=plastic&logo=python&logoColor=informational&color=informational)
 ![](https://img.shields.io/badge/console-git-%23F05033.svg?style=plastic&logo=git&logoColor=informational&color=informational)
+![](https://img.shields.io/badge/code-python-informational?style=plastic&logo=python&logoColor=informational&color=informational)
 
 
 
@@ -37,7 +37,7 @@ I believe being part of the IT world it´s the most realistic and right decision
   <img height='180px'  align='center' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanhernandezdeveloper&layout=compact&theme=tokyonight&show_icons=true&langs_count=4" alt="Juan's GitHub stats"/>
 </div>
 
-
+## Conections
 
 Connect with me at: [LinkedIn](https://www.linkedin.com/in/juanhdev/) | [Instagram](https://www.instagram.com/juan.alberto.hernandez/) | [Gmail](mailto:"jualherac@gmail.com")
 

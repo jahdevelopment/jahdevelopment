@@ -1,11 +1,11 @@
-## Hello, :wave: I'm Juan Hernandez, Full-Stack Software Developer student at MITT.
+## Hello, :wave: I'm Juan Hernandez, Full-Stack Software Developer student at MITT
 
 <img src="images/pexels-pixabay-248515.jpg" width="100%" height="300px">
 
 
 ## About Me
 
-I'm from Colombia, but living in Winnipeg since December of 2021, I'm almost finishing my courses and now seeking a company which give me the opportunity to make my internship as a developer. 
+I'm from Colombia, living in Winnipeg since December of 2021, I'm almost finishing my courses and now seeking a company which give me the opportunity to make my internship as a developer. 
 
 My main technical skills are related to JavaScript, React, ASP.NET, and SQL Server. 
 
@@ -38,7 +38,9 @@ I believe being part of the IT world it´s the most realistic and right decision
 
 ## Conections
 
-Connect with me at: :LinkedIn: [LinkedIn](https://www.linkedin.com/in/juanhdev/) | [Instagram](https://www.instagram.com/juan.alberto.hernandez/) | [Gmail](mailto:"jualherac@gmail.com")
+Connect with me at: :LinkedIn: [LinkedIn](https://www.linkedin.com/in/juanhdev/) | [Instagram](https://www.instagram.com/juan.alberto.hernandez/) | [Gmail](mailto:jualherac@gmail.com)
+
+
 
 ##### Please have a look at my repositories, any contribution I can receive from you I'll appreciate it! :thumbsup:
 

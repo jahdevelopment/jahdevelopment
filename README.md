@@ -1,14 +1,13 @@
-<img src="images/pexels-pixabay-248515.jpg" width="100%" height="300px">
+## Hello, :wave: I'm Juan Hernandez, Full-Stack Software Developer student at MITT.
 
+<img src="images/pexels-pixabay-248515.jpg" width="100%" height="300px">
 
 
 ## About Me
 
-Hello, :wave: I'm Juan Alberto Hernandez Full-Stack Software Developer student at MITT.
+I'm from Colombia, but living in Winnipeg since December of 2021, I'm almost finishing my courses and now seeking a company which give me the opportunity to make my internship as a developer. 
 
-I'm living in Winnipeg since December of 2021, I'm almost finishing my courses and now seeking a company which give me the opportunity to make my internship as a developer. 
-
-My main skills are related to JavaScript, React, ASP.NET, and SQL Server. 
+My main technical skills are related to JavaScript, React, ASP.NET, and SQL Server. 
 
 I believe being part of the IT world it´s the most realistic and right decision because it's a way to build real solutions for the most part of people in a short time. 
 
@@ -29,7 +28,7 @@ I believe being part of the IT world it´s the most realistic and right decision
 
 
 
-## My stats
+## My Stats
 
 <div style="display: flex; flex-direction: row;" >
   <img height='180px' align='center' src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanhernandezdeveloper&theme=tokyonight&show_icons=true" alt="Juan's GitHub stats" />
@@ -39,8 +38,8 @@ I believe being part of the IT world it´s the most realistic and right decision
 
 ## Conections
 
-Connect with me at: [LinkedIn](https://www.linkedin.com/in/juanhdev/) | [Instagram](https://www.instagram.com/juan.alberto.hernandez/) | [Gmail](mailto:"jualherac@gmail.com")
+Connect with me at: :LinkedIn: [LinkedIn](https://www.linkedin.com/in/juanhdev/) | [Instagram](https://www.instagram.com/juan.alberto.hernandez/) | [Gmail](mailto:"jualherac@gmail.com")
 
-
+##### Please have a look at my repositories, any contribution I can receive from you I'll appreciate it! :thumbsup:
 
 

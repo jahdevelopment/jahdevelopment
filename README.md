@@ -7,9 +7,11 @@
 
 I'm from Colombia, living in Winnipeg since December of 2021, I'm almost finishing my courses and now seeking a company which give me the opportunity to make my internship as a developer. 
 
-My main technical skills are related to JavaScript, React, ASP.NET, and SQL Server. 
+My main technical skills are related to C#, .NET, ASP.NET MVC, SQL Server, Visual Studio, OOP, HTML5, CSS3, JavaScript, React JS, Git and Github.
 
-I believe being part of the IT world it´s the most realistic and right decision because it's a way to build real solutions for the most part of people in a short time. 
+I think that bringing my skills to the world of technology is one of the best decisions I have made in recent years because it is very exciting to be part of building robust solutions to make life easier for a large majority of people in a short time. I am looking forward to start transforming the world.
+
+The most important skill to succeed in the IT field is to be persistent. 
 
 
 

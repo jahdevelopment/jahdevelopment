@@ -33,9 +33,9 @@ The most important skill to succeed in the IT field is to be persistent.
 ## My Stats
 
 <div style="display: flex; flex-direction: row;" >
-  <img height='180px' align='center' src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanhernandezdeveloper&theme=tokyonight&show_icons=true" alt="Juan's GitHub stats" />
+  <img height='180px' align='center' src="https://github-readme-stats-sigma-five.vercel.app/api?username=jahdevelopment&theme=tokyonight&show_icons=true" alt="Juan's GitHub stats" />
 
-  <img height='180px'  align='center' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanhernandezdeveloper&layout=compact&theme=tokyonight&show_icons=true&langs_count=4" alt="Juan's GitHub stats"/>
+  <img height='180px'  align='center' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jahdevelopment&layout=compact&theme=tokyonight&show_icons=true&langs_count=4" alt="Juan's GitHub stats"/>
 </div>
 
 ## Conections
